@@ -2,13 +2,13 @@
 
 VI Earth의 11주차 프로젝트 진행 사항
 
-![KakaoTalk_20201102_193431859](https://user-images.githubusercontent.com/54584364/97858559-ab110b00-1d42-11eb-8a97-f0ac3fcdb791.jpg)
+![KakaoTalk_20201117_001527080_02](https://user-images.githubusercontent.com/54584364/99271224-2d80eb00-286a-11eb-868d-b5f88ead8057.jpg)
 
-![KakaoTalk_20201102_193426572](https://user-images.githubusercontent.com/54584364/97858602-ba905400-1d42-11eb-9e78-6fc73b620ffe.jpg)
+![KakaoTalk_20201117_001527080_03](https://user-images.githubusercontent.com/54584364/99271446-3d003400-286a-11eb-9cfc-9a72bfb3b15c.jpg)
 
-![KakaoTalk_20201102_193426572_02](https://user-images.githubusercontent.com/54584364/97858630-c845d980-1d42-11eb-877b-2977ccf84217.jpg)
+![KakaoTalk_20201117_001527080](https://user-images.githubusercontent.com/54584364/99271619-48ebf600-286a-11eb-948c-d7aaf82650a2.jpg)
 
-![KakaoTalk_20201102_193426572_01](https://user-images.githubusercontent.com/54584364/97858663-d3006e80-1d42-11eb-9fd0-0a0cdc221471.jpg)
+![KakaoTalk_20201117_001527080_01](https://user-images.githubusercontent.com/54584364/99271773-57d2a880-286a-11eb-91fb-68b437bc0a4b.jpg)
 
 [실행 영상](https://youtu.be/BPOsaszNyBs)
 
