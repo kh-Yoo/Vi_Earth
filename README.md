@@ -6,11 +6,15 @@ VI Earth의 11주차 프로젝트 진행 사항
 
 ![KakaoTalk_20201117_001527080_03](https://user-images.githubusercontent.com/54584364/99271446-3d003400-286a-11eb-9cfc-9a72bfb3b15c.jpg)
 
+[실행 영상](https://youtu.be/r1GyV1tAzdM)
+
 ![KakaoTalk_20201117_001527080](https://user-images.githubusercontent.com/54584364/99271619-48ebf600-286a-11eb-948c-d7aaf82650a2.jpg)
+
+[실행 영상](https://youtu.be/QUyOxa9Z-UU)
 
 ![KakaoTalk_20201117_001527080_01](https://user-images.githubusercontent.com/54584364/99271773-57d2a880-286a-11eb-91fb-68b437bc0a4b.jpg)
 
-[실행 영상](https://youtu.be/BPOsaszNyBs)
+[실행 영상](https://youtu.be/ycVoJ6Xu7p4)
 
 미니맵 패널 수정
 - 기존의 미니맵 패널에는 미니맵 내 플레이어의 위치를 알려주는 오브젝트가 미니맵으로 지정한 크기를 벗어나는 문제가 있었습니다. 이를 해결하기 위해 미니맵 패널 내 경계선을 만들고 경계선에 box collider(박스 콜라이더)를 설정하여 충돌되어 지나갈수없게 구현하였습니다.
